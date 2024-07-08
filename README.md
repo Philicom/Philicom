@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning (SQL, PL/pgSQL and ... more recently Batch code)
 - 💞️ I’m looking to collaborate on GraceTHD community
 - 📫 How to reach me : philippe.schitter@gmail.com
-- 😄 Pronouns: Jus like Me !
+- 😄 Pronouns: Just like Me !
 - ⚡ Fun fact: when I fell off my bike like a pancake ! 😄
 
 <!---
